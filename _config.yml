@@ -1,6 +1,17 @@
 title: <p align="center">Ali Haider </p>
 logo: /assets/img/passport size pic.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/ali-haider-00b82610a/">LinkedIn</a> |
+  <a href="https://github.com/xmenhaiderali">GitHub</a>
+  
+  <br>   
+  I am working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with Microland Ltd & Capegmini. I am currently working as Data Scientist at EY.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
